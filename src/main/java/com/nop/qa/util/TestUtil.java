@@ -46,7 +46,7 @@ public class TestUtil extends TestBase {
 	public static Select select;
 	public static Alert alert;
 
-	public static String TESTDATA_SHEET_PATH = "";
+	public static String TESTDATA_SHEET_PATH = "D:\\Projects\\NopCommercePOMUpdatedNew\\src\\main\\java\\com\\nop\\qa\\testdata\\TestData.xlsx";
 
 	static Workbook book;
 	static Sheet sheet;
