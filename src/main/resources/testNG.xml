@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Nop Commerce" verbose="1" >
+
+	<listeners>
+		<listener class-name="com.nop.qa.extentReportListener.ExtentReportListenar"></listener>
+	</listeners>                
+
+  <test name="FreeCRMTest" >
+    <classes>
+       <class name="com.nop.qa.testcases.LoginPageTest" />
+       <class name="com.nop.qa.testcases.ProductAddPageTest" />  
+    </classes>
+  </test>
+</suite>

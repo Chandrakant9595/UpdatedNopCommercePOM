@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Nop Commerce" duration-ms="132950" started-at="2020-07-31T16:22:45 IST" finished-at="2020-07-31T16:24:58 IST">
+    <groups>
+    </groups>
+    <test name="FreeCRMTest" duration-ms="132950" started-at="2020-07-31T16:22:45 IST" finished-at="2020-07-31T16:24:58 IST">
+      <class name="com.nop.qa.testcases.ProductAddPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nop.qa.testcases.ProductAddPageTest@1e8b721]" name="setUp" is-config="true" duration-ms="37010" started-at="2020-07-31T16:23:38 IST" finished-at="2020-07-31T16:24:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAddProductPageTitle()[pri:1, instance:com.nop.qa.testcases.ProductAddPageTest@1e8b721]" name="verifyAddProductPageTitle" duration-ms="82" started-at="2020-07-31T16:24:15 IST" description="Test for validate the Add New Product page Title" finished-at="2020-07-31T16:24:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddProductPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nop.qa.testcases.ProductAddPageTest@1e8b721]" name="tearDown" is-config="true" duration-ms="785" started-at="2020-07-31T16:24:15 IST" finished-at="2020-07-31T16:24:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nop.qa.testcases.ProductAddPageTest@1e8b721]" name="setUp" is-config="true" duration-ms="41005" started-at="2020-07-31T16:24:16 IST" finished-at="2020-07-31T16:24:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAddProductPageURL()[pri:2, instance:com.nop.qa.testcases.ProductAddPageTest@1e8b721]" name="verifyAddProductPageURL" duration-ms="118" started-at="2020-07-31T16:24:57 IST" description="Test for validate the Add New Product page URL" finished-at="2020-07-31T16:24:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddProductPageURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nop.qa.testcases.ProductAddPageTest@1e8b721]" name="tearDown" is-config="true" duration-ms="816" started-at="2020-07-31T16:24:57 IST" finished-at="2020-07-31T16:24:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nop.qa.testcases.ProductAddPageTest -->
+      <class name="com.nop.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nop.qa.testcases.LoginPageTest@cbf1a]" name="setUp" is-config="true" duration-ms="16424" started-at="2020-07-31T16:22:45 IST" finished-at="2020-07-31T16:23:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="varifyLoginPageTitle()[pri:1, instance:com.nop.qa.testcases.LoginPageTest@cbf1a]" name="varifyLoginPageTitle" duration-ms="194" started-at="2020-07-31T16:23:02 IST" description="Test for validate the login page title" finished-at="2020-07-31T16:23:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyLoginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nop.qa.testcases.LoginPageTest@cbf1a]" name="tearDown" is-config="true" duration-ms="776" started-at="2020-07-31T16:23:02 IST" finished-at="2020-07-31T16:23:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nop.qa.testcases.LoginPageTest@cbf1a]" name="setUp" is-config="true" duration-ms="7522" started-at="2020-07-31T16:23:03 IST" finished-at="2020-07-31T16:23:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageURL()[pri:2, instance:com.nop.qa.testcases.LoginPageTest@cbf1a]" name="verifyLoginPageURL" duration-ms="33" started-at="2020-07-31T16:23:11 IST" description="Test for validate the login page url" finished-at="2020-07-31T16:23:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nop.qa.testcases.LoginPageTest@cbf1a]" name="tearDown" is-config="true" duration-ms="716" started-at="2020-07-31T16:23:11 IST" finished-at="2020-07-31T16:23:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nop.qa.testcases.LoginPageTest@cbf1a]" name="setUp" is-config="true" duration-ms="9919" started-at="2020-07-31T16:23:11 IST" finished-at="2020-07-31T16:23:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageLoginFunctionality()[pri:3, instance:com.nop.qa.testcases.LoginPageTest@cbf1a]" name="verifyLoginPageLoginFunctionality" duration-ms="16024" started-at="2020-07-31T16:23:21 IST" description="Test for validate the login page login functionality" finished-at="2020-07-31T16:23:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageLoginFunctionality -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nop.qa.testcases.LoginPageTest@cbf1a]" name="tearDown" is-config="true" duration-ms="781" started-at="2020-07-31T16:23:37 IST" finished-at="2020-07-31T16:23:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nop.qa.testcases.LoginPageTest -->
+    </test> <!-- FreeCRMTest -->
+  </suite> <!-- Nop Commerce -->
+</testng-results>
