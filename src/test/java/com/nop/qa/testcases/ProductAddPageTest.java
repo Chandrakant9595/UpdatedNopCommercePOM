@@ -66,4 +66,4 @@ public class ProductAddPageTest extends TestBase {
 		String url = productAddPage.validateAddProductPageURL();
 		Assert.assertEquals(url, TestConstants.addNewProductPageURL);
 	}
-}
+} 
